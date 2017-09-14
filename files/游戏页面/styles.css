@@ -3,7 +3,7 @@
   background-image:none;
   position:static;
   left:auto;
-  width:368px;
+  width:363px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -311,7 +311,7 @@
   top:73px;
   width:95px;
   height:39px;
-  font-family:'幼圆 Bold', '幼圆';
+  font-family:'幼圆 Bold', '幼圆 Regular', '幼圆';
   font-weight:700;
   font-style:normal;
   color:#719B67;
@@ -1415,7 +1415,7 @@
   top:17px;
   width:99px;
   height:36px;
-  font-family:'微软雅黑 Bold', '微软雅黑';
+  font-family:'微软雅黑 Bold', '微软雅黑 Regular', '微软雅黑';
   font-weight:700;
   font-style:normal;
   font-size:20px;
