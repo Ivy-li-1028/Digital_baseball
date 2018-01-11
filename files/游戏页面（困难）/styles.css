@@ -166,7 +166,6 @@
   width:95px;
   height:39px;
   font-family:'幼圆 Bold', '幼圆 Regular', '幼圆';
-  font-weight:700;
   font-style:normal;
   color:#719B67;
 }
@@ -886,11 +885,11 @@
   border-width:0px;
   position:absolute;
   left:132px;
-  top:127px;
+  top:141px;
   width:16px;
   height:36px;
   font-family:'微软雅黑';
-  font-weight:400;
+  font-weight:410;
   font-style:normal;
   font-size:14px;
   line-height:36px;
@@ -915,11 +914,11 @@
   border-width:0px;
   position:absolute;
   left:85px;
-  top:127px;
+  top:141px;
   width:19px;
   height:36px;
   font-family:'微软雅黑';
-  font-weight:400;
+  font-weight:410;
   font-style:normal;
   font-size:14px;
   line-height:36px;
@@ -944,11 +943,11 @@
   border-width:0px;
   position:absolute;
   left:42px;
-  top:127px;
+  top:141px;
   width:15px;
   height:36px;
   font-family:'微软雅黑';
-  font-weight:400;
+  font-weight:410;
   font-style:normal;
   font-size:14px;
   line-height:36px;
@@ -973,11 +972,11 @@
   border-width:0px;
   position:absolute;
   left:269px;
-  top:127px;
+  top:141px;
   width:95px;
   height:36px;
   font-family:'微软雅黑';
-  font-weight:400;
+  font-weight:410;
   font-style:normal;
   font-size:14px;
   text-align:right;
@@ -1003,7 +1002,7 @@
   border-width:0px;
   position:absolute;
   left:27px;
-  top:158px;
+  top:172px;
   width:228px;
   height:1px;
 }
@@ -1028,11 +1027,11 @@
   border-width:0px;
   position:absolute;
   left:176px;
-  top:127px;
+  top:141px;
   width:16px;
   height:36px;
   font-family:'微软雅黑';
-  font-weight:400;
+  font-weight:410;
   font-style:normal;
   font-size:14px;
   line-height:36px;
@@ -1057,11 +1056,11 @@
   border-width:0px;
   position:absolute;
   left:220px;
-  top:127px;
+  top:141px;
   width:16px;
   height:36px;
   font-family:'微软雅黑';
-  font-weight:400;
+  font-weight:410;
   font-style:normal;
   font-size:14px;
   line-height:36px;
@@ -1119,4 +1118,33 @@
   top:10px;
   width:36px;
   word-wrap:break-word;
+}
+#u255_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:120px;
+  height:14px;
+}
+#u255 {
+  border-width:0px;
+  position:absolute;
+  left:243px;
+  top:117px;
+  width:120px;
+  height:14px;
+  font-family:'幼圆';
+  font-weight:410;
+  font-style:normal;
+  color:#719B67;
+  text-align:center;
+}
+#u256 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:120px;
+  white-space:nowrap;
 }
